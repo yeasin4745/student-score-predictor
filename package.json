@@ -1,0 +1,16 @@
+{
+  "name": "student-score-predictor",
+  "version": "1.0.0",
+  "description": "student score prediction",
+  "license": "ISC",
+  "author": "Yeasin",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  },
+  "devDependencies": {}
+}
